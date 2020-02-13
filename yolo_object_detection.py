@@ -358,7 +358,7 @@ if __name__=="__main__":
     fps = 0
 
     # we create the video capture object cap
-    cap = cv2.VideoCapture('r.mp4')
+    cap = cv2.VideoCapture('PUT YOUR VIDEO PATH HERE')
     if not cap.isOpened():
         raise IOError("We cannot open webcam")
 
