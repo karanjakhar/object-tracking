@@ -39,5 +39,5 @@ Use good GPU system to avoid video lagging. Nvidia GTX 1050ti would be good.
 
 After doing everything run it by:
 
-`python` `yolo_object_detection.py`
+`python yolo_object_detection.py --video <video path>`
 
