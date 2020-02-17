@@ -1,5 +1,11 @@
 # object-tracking
 
+![car tracking](/home/karan/kj_workspace/kj_git_projects/object-tracking/cars.gif)
+
+
+
+
+
 I used YOLOv3 pretrained network to track objects in a video. In code file you have to put your video file path.
 
 Download YOLOv3 weights from YOLO website:  https://pjreddie.com/darknet/yolo/
