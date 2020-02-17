@@ -1,6 +1,6 @@
 # object-tracking
 
-![car tracking](/home/karan/kj_workspace/kj_git_projects/object-tracking/cars.gif)
+![car tracking](./assets/cars.gif)
 
 
 
