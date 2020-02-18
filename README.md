@@ -1,10 +1,11 @@
 # object-tracking
 
-![car tracking](assets/object-tracking/cars.gif)
+![car tracking](/assets/object-tracking/cars.gif)
 
 
 
-I have prepared two solutions. One using pretrained model (YOLO) and another one I trained myself (Faster R-CNN).  I trained Faster R-CNN for three classes person, football and car. The code of Faster R-CNN code is in `custom_trained` folder. There are two jupyter notebook files. I trained the model in Google Colab they can be accessed in Google Colab here : https://colab.research.google.com/drive/1lQhFpWktj594mOQafFtfAdI4jWucAgEx and https://colab.research.google.com/drive/1dfcK8hDPEGSVwHSTmH4-U8hn9pl-aD4u
+I have prepared two solutions. One using pretrained model (YOLO) and another one I trained myself (Faster R-CNN).  I trained Faster R-CNN for three classes person, football and car. The code of Faster R-CNN code is in `custom_trained` folder. There are two jupyter notebook files. I trained the model in Google Colab they can be accessed in Google Colab here :                 
+https://colab.research.google.com/drive/1lQhFpWktj594mOQafFtfAdI4jWucAgEx and https://colab.research.google.com/drive/1dfcK8hDPEGSVwHSTmH4-U8hn9pl-aD4u
 
 In first jupyter notebook data preprocessing is done. I used `Open Image Dataset V5` here is the link to dataset: https://storage.googleapis.com/openimages/web/download.html
 
@@ -45,5 +46,5 @@ Use good GPU system to avoid video lagging. Nvidia GTX 1050ti would be good.
 
 After doing everything run it by:
 
-`python` `yolo_object_detection.py`
+`python yolo_object_detection.py -v <video path>`
 
