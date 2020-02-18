@@ -10,7 +10,7 @@ I have prepared two solutions. One using pretrained model (YOLO) and another one
 
 
 
- I trained Faster R-CNN for three classes person, football and car. The code of Faster R-CNN code is in `custom_trained` folder. There are two jupyter notebook files. I trained the model in Google Colab they can be accessed in Google Colab here :                   
+ I trained Faster R-CNN for three classes person, football and car. The code of Faster R-CNN code is in `custom_trained` folder. There are two jupyter notebook files. I trained the model in Google Colab they can be accessed in Google Colab here:                   
 https://colab.research.google.com/drive/1lQhFpWktj594mOQafFtfAdI4jWucAgEx and https://colab.research.google.com/drive/1dfcK8hDPEGSVwHSTmH4-U8hn9pl-aD4u
 
 In first jupyter notebook data preprocessing is done. I used `Open Image Dataset V5` here is the link to dataset: https://storage.googleapis.com/openimages/web/download.html
