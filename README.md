@@ -1,6 +1,6 @@
 # object-tracking
 
-![car tracking](./assets/object-tracking/cars.gif)
+![car tracking](./assets/cars.gif)
 
 
 
